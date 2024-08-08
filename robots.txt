@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dianucop.github.io/sitemap.html.gz
+Sitemap: https://dianucop.github.io/app/sitemap.html.gz
+Sitemap: https://dianucop.github.io/assets/sitemap.html.gz
+Sitemap: https://dianucop.github.io/css/sitemap.html.gz
+Sitemap: https://dianucop.github.io/includes/sitemap.html.gz
+Sitemap: https://dianucop.github.io/item/sitemap.html.gz
+Sitemap: https://dianucop.github.io/src/sitemap.html.gz
